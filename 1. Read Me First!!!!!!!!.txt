@@ -1,0 +1,5 @@
+					Farm Storage Management System
+
+This sytem helps farmers organize, arrange and easly see whats in their  farm storage unit by giving items id they add in the storage they can easly update, search and delete their inventory 
+
+
